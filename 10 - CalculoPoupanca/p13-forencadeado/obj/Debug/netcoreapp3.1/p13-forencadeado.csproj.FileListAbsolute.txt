@@ -1,0 +1,13 @@
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\bin\Debug\netcoreapp3.1\p13-forencadeado.exe
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\bin\Debug\netcoreapp3.1\p13-forencadeado.deps.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\bin\Debug\netcoreapp3.1\p13-forencadeado.runtimeconfig.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\bin\Debug\netcoreapp3.1\p13-forencadeado.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\bin\Debug\netcoreapp3.1\p13-forencadeado.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\bin\Debug\netcoreapp3.1\p13-forencadeado.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.genruntimeconfig.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\p13-forencadeado\obj\Debug\netcoreapp3.1\p13-forencadeado.csproj.AssemblyReference.cache

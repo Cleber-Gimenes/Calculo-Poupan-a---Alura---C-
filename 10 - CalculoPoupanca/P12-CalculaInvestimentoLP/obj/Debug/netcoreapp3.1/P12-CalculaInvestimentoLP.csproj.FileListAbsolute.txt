@@ -1,0 +1,13 @@
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.exe
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.deps.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.runtimeconfig.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.genruntimeconfig.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\P12-CalculaInvestimentoLP\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLP.csproj.AssemblyReference.cache

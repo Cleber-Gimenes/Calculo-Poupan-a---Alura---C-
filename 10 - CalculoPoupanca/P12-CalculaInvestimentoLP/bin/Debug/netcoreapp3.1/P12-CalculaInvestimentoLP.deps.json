@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P12-CalculaInvestimentoLP/1.0.0": {
+        "runtime": {
+          "P12-CalculaInvestimentoLP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P12-CalculaInvestimentoLP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

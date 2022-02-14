@@ -1,0 +1,13 @@
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\bin\Debug\netcoreapp3.1\resolução de testes.exe
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\bin\Debug\netcoreapp3.1\resolução de testes.deps.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\bin\Debug\netcoreapp3.1\resolução de testes.runtimeconfig.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\bin\Debug\netcoreapp3.1\resolução de testes.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\bin\Debug\netcoreapp3.1\resolução de testes.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\bin\Debug\netcoreapp3.1\resolução de testes.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.genruntimeconfig.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\resolução de testes\obj\Debug\netcoreapp3.1\resolução de testes.csproj.AssemblyReference.cache

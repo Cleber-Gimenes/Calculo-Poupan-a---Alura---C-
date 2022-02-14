@@ -1,0 +1,13 @@
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\bin\Debug\netcoreapp3.1\10 - CalculoPoupanca.exe
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\bin\Debug\netcoreapp3.1\10 - CalculoPoupanca.deps.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\bin\Debug\netcoreapp3.1\10 - CalculoPoupanca.runtimeconfig.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\bin\Debug\netcoreapp3.1\10 - CalculoPoupanca.runtimeconfig.dev.json
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\bin\Debug\netcoreapp3.1\10 - CalculoPoupanca.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\bin\Debug\netcoreapp3.1\10 - CalculoPoupanca.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.AssemblyInfoInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.AssemblyInfo.cs
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.dll
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.pdb
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.genruntimeconfig.cache
+C:\Users\Cleber\source\repos\10 - CalculoPoupanca\10 - CalculoPoupanca\obj\Debug\netcoreapp3.1\10 - CalculoPoupanca.csproj.AssemblyReference.cache
